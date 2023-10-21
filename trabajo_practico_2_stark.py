@@ -100,3 +100,6 @@ while bandera == True :
 
 
 cadena_menu = "1. Normalizar datos\n2- Recorrer la lista imprimiendo por consola el nombre de cada superhéroe de género NB\n3- Recorrer la lista y determinar cuál es el superhéroe más alto de género F\n4- Recorrer la lista y determinar cuál es el superhéroe más alto de género M\n5- Recorrer la lista y determinar cuál es el superhéroe más débil de género M\n6- Recorrer la lista y determinar cuál es el superhéroe más débil de género NB\n7- Recorrer la lista y determinar la fuerza promedio de los superhéroes de género NB\n8- Determinar cuántos superhéroes tienen cada tipo de color de ojos\n9- Determinar cuántos superhéroes tienen cada tipo de color de pelo.\n10- Listar todos los superhéroes agrupados por color de ojos.\n11- Listar todos los superhéroes agrupados por tipo de inteligencia"
+
+
+"probando"
